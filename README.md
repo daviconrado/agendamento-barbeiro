@@ -16,7 +16,7 @@
 
 ## 💻 Sobre o projeto
 
-Este projeto é um sistema para agendamento de horários em uma barbearia,o objetivo é facilitar a organização e otimizar o tempo de atendimento, proporcionando uma experiência eficiente para os profissionais.
+Este projeto é um sistema para agendamento de horários em uma barbearia. O objetivo é facilitar a organização e otimizar o tempo de atendimento, proporcionando uma experiência eficiente para os profissionais. Foi produzido para estudos, permitindo o aprimoramento de habilidades em desenvolvimento de software.
 
 ## ⚙️ Funcionalidades
 ✔️ Gerenciamento de Agenda: Barbeiros podem visualizar e organizar seus agendamentos. </br>
